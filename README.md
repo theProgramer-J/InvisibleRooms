@@ -1,2 +1,0 @@
-# InvisibleRooms
-My mod invisiblerooms
